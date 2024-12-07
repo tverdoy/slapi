@@ -1,6 +1,7 @@
 [package]
 name = "slapi-coin"
-version = "0.1.0"
+version = "1.0.0"
+authors = ["Tverdoy <tverdoy.work@gmail.com>"]
 edition = "2021"
 
 [lib]

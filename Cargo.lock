@@ -5263,7 +5263,7 @@ dependencies = [
 
 [[package]]
 name = "slapi-coin"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "near-sdk",
  "near-workspaces",
