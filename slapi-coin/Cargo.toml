@@ -3,6 +3,7 @@ name = "slapi-coin"
 version = "1.0.0"
 authors = ["Tverdoy <tverdoy.work@gmail.com>"]
 edition = "2021"
+repository = "https://github.com/tverdoy/slapi"
 
 [package.metadata.near.reproducible_build]
 image = "sourcescan/cargo-near:git-e3c8adb4b5542cbfc159bb1534f2b94c900c1648-1.80.0"
